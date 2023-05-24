@@ -20,8 +20,13 @@ Working: Seperates legitimate and malicious samples from the total dataset. Trig
 decision_tree_attack, logistic_regression_attack, mlp_attack, random_forest_attack, and xg_boost_attack files contain the code that triggers the attack on the respective trained models.
 
 **FIGA_data**: is the dataset used.
+
 Number of samples: 348739
+
 Number of features: 52
+
 Phishing samples: 138473
+
 Legitimate samples: 210266
+
 
