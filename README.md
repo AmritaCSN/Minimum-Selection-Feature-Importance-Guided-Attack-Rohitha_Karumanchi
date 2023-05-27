@@ -26,7 +26,7 @@ Phishing samples: 138473,
 Legitimate samples: 210266.
 
 
-##Runnning the code:
+## Runnning the code:
 
 1) Load the dataset in the data folder.
 2) Update the dataset file in the experiment files.
