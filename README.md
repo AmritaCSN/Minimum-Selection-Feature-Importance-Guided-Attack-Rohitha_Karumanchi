@@ -29,7 +29,7 @@ Legitimate samples: 210266.
 ## Runnning the code:
 
 1) Load the dataset in the data folder.
-2) Update the dataset file in the experiment files.
+2) Update the dataset file name in the experiment files.
 3) Run the need experiment files with the command "python filename.py", for example "python decision_tree_attack.py"
 
 
